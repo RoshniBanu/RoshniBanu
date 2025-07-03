@@ -57,7 +57,7 @@
 
 - 👩‍🎨 [OD Request & Approval System](https://github.com/RoshniBanu/Odmodule) — Automates OD approvals, eliminates paperwork
 - 📚 [College Knowledge Vault](https://github.com/roshnibanu/knowledge-vault) — Upload/download academic materials, rate content
-- 👥 [Event Crowd Management](https://github.com/roshnibanu/crowd-management) — Smart quadrant-based redirection logic
+- 👥 [Event Crowd Management](https://github.com/Visvam-Srinivasan/crowdIQDbms) — Smart quadrant-based redirection logic
 
 ---
 
