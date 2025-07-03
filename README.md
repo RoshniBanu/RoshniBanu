@@ -5,9 +5,8 @@
 
 ### 🚀 About Me
 
-🧑‍💻 I'm a passionate **Developer**  
-🌐 Exploring Web Development, DBMS, Machine Learning  
-🧠 Solved **200+ DSA questions** on [LeetCode](https://leetcode.com/u/Roshni_Banu/) and **25+** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/riganasbgk/)  
+🧑‍💻 I'm a passionate **Developer** and an enthusiastic **Learner**
+🌐 Exploring Web Development, DBMS , Machine Learning  
 📝 Currently building MERN stack projects like **Online Shopping Site**  
 ✅ Built projects like **College Knowledge Vault**, and **Event Crowd Management**  
 🌱 Currently learning **ML algorithms**, **Google Colab**, and **Backend Architecture**  
@@ -46,15 +45,12 @@
 
 - 🏅 HackerRank Badges in **C++**, **Python**, and **SQL**
 - ✅ HackerRank Certifications in **SQL Basics** and **SQL Intermediate**
-- 💡 200+ DSA problems solved on LeetCode
-- 📚 25+ problems solved on GeeksforGeeks
 - 🚀 Built real-world full-stack applications with real-time logic
 
 ---
 
 ### 📌 Featured Projects
-
-- 🛒 [Online Shopping App](https://github.com/roshnibanu/online-shopping): Shopping cart, search, add/remove item (MERN)
+-👩‍🎨 [OD Request & Approval System](https://github.com/RoshniBanu/Odmodule) : Automate Od Approval system, avoid manual presence & paper work
 - 📚 [College Knowledge Vault](https://github.com/roshnibanu/knowledge-vault): Upload/download materials, rate content
 - 👥 [Event Crowd Management](https://github.com/roshnibanu/crowd-management): Smart quadrant-based redirection logic
 
@@ -77,15 +73,6 @@
   </a>
   <a href="mailto:rigana0206@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://leetcode.com/u/Roshni_Banu/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/riganasbgk/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/rigana0206" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://github.com/roshnibanu">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
