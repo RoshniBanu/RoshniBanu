@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Roshni Banu</h1>
-<h3 align="center">A 3rd Year CSE Student | Full Stack Developer | Tech Explorer</h3>
+<h3 align="center">A 3rd Year CSE UnderGrad @CEG | Full Stack Developer | Tech Explorer</h3>
 
 ---
 
 ### 🚀 About Me
 
-🧑‍💻 I'm a passionate **Developer** from Tamil Nadu  
-🌐 Exploring Web Development, DBMS, Open Source, and System Design  
-📝 Currently building MERN stack projects like **Online Shopping Site**, **Knowledge Vault**, and **Event Crowd Manager**  
-📖 Writing blogs on tech & dev experiences *(Coming Soon)*  
+🧑‍💻 I'm a passionate **Developer**   
+🌐 Exploring Web Development, DBMS, ML algorithms  
+📝 Currently building MERN stack projects like **Online Shopping Site**
+📝 Built MERN projects like **Knowledge Vault**, and **Event Crowd Management**    
 🌱 Currently learning **Machine Learning** & **Backend Architecture**  
 ✨ I believe in "Transforming ideas into code"
 
@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 
 #### ⚙️ Back-End Development:
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -43,8 +43,8 @@
 ### 🌟 Achievements
 
 - 🏅 HackerRank badges in **C++**, **Python**, and **SQL**
+- 🏅 HackerRank certifications in **SQl Basics** and **SQL Intermediate**
 - 🧠 Developed full-stack projects with real-time implementation logic
-- 📣 Speaker at college-level tech meetups and events
 
 ---
 
