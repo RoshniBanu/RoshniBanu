@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshni Banu</h1>
-<h3 align="center">A 3rd Year CSE UnderGrad @CEG | Full Stack Developer | Tech Explorer</h3>
+<h3 align="center">A 3rd Year CSE UnderGrad @CEG | Full Stack Developer | Tech Explorer | Seeking Internships</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=435&lines=Passionate+Developer;Problem+Solver;Tech+Lover;Always+Learning...+" alt="Typing SVG" />
@@ -82,8 +82,5 @@
   <a href="https://github.com/roshnibanu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://roshnibanu.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=githubpages"/>
-  </a>
-  
+ 
 </p>
